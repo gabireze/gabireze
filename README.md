@@ -17,6 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Description Of Bitcoin Exchange And What They do](https://gabireze.medium.com/description-of-bitcoin-exchange-and-what-they-do-3ed010e1d821?source=rss-f959392913c0------2)
+- [Impact Of Bitcoin Halving](https://gabireze.medium.com/impact-of-bitcoin-halving-e76e3c925c10?source=rss-f959392913c0------2)
+- [Cryptocurrency Is The New Gold](https://gabireze.medium.com/cryptocurrency-is-the-new-gold-9dfeb28bf162?source=rss-f959392913c0------2)
+- [What Is Blockchain And Why Is Bitcoin Secure](https://gabireze.medium.com/what-is-blockchain-and-why-is-bitcoin-secure-188d2ac94366?source=rss-f959392913c0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
