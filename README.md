@@ -37,7 +37,7 @@
 
 <h3 align="left">Support:</h3>
 
-- 🪙 For Brazilians, my Pix is **contato@gabireze.com.br**
+- 💵 For Brazilians, my Pix is **contato@gabireze.com.br**
 
 - 💸 My BTC address is **1KStjYJLpVYxkDBmeTVv9cTP58Nh3ZaD1r**
 
@@ -48,11 +48,6 @@
 <p><a href="https://www.buymeacoffee.com/gabireze"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gabireze" /></a></p><br><br>
 
 <h3 align="left">⚡️ GitHub Stats:</h3>
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 | <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabireze&show_icons=true&locale=en" alt="gabireze" /></p> | <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gabireze&" alt="gabireze" /></p>|
 | :----: | :----: |
