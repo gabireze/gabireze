@@ -43,9 +43,11 @@
 
 - 💵 For Brazilians, my Pix is **contato@gabireze.com.br**
 
-- 💸 My BTC address is **1KStjYJLpVYxkDBmeTVv9cTP58Nh3ZaD1r**
+- 💸 My BTC address is **bc1qqqtwl0akq535w3g4z0dgmq8nk0e8tqjtc2gw3x**
 
-- 💰 My ETH/ERC-20 address is **0x93b864efBc8f80cB04EF845BC1E2eB4D76c257bD**
+- 💰 My ETH address is **0x954D8a59B21Cf87965D7ADBf115f930DD81C94fB**
+
+- 🔥 My ERC20 / BSC / Polygon address is **0x93b864efBc8f80cB04EF845BC1E2eB4D76c257bD**
 
 - ⚡️ Lightning Address is **gabireze@zbd.gg** or [https://zbd.gg/gabireze](https://zbd.gg/gabireze)
 
