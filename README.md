@@ -2,6 +2,7 @@
 
 I am a full-stack developer, and here you can find the repositories of what I have been working on.
 - Website: https://gabireze.com.br/
+- LinkeIn: https://www.linkedin.com/in/gabireze/
 - Email: [contato@gabireze.com.br](mailto:contato@gabireze.com.br)
 
 ![Profile views](https://komarev.com/ghpvc/?username=gabireze&label=Profile%20views&color=blue&style=for-the-badge)
