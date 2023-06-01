@@ -1,60 +1,95 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" />, I'm Gabriel de Rezende Gonçalves</h1>
-<h3 align="center">I'm an enthusiast full-stack developer from Brazil</h3>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" /> Hello there, I'm <strong>Gabriel de Rezende Gonçalves</strong> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabireze&label=Profile%20views&color=0e75b6&style=flat" alt="gabireze" /> </p>
+I am a full-stack developer, and here you can find the repositories of what I have been working on.
+- Website: https://gabireze.com.br/
+- Email: [contato@gabireze.com.br](mailto:contato@gabireze.com.br)
 
-- 🌱 I’m currently learning **Node.js, Ractive.js and Python**
+![Profile views](https://komarev.com/ghpvc/?username=gabireze&label=Profile%20views&color=blue&style=for-the-badge)
 
-- 👨‍💻 All of my projects are available at [https://github.com/gabireze](https://github.com/gabireze)
+## Skills in Development
 
-- 📝 I regularly write articles on [https://gabireze.medium.com/](https://gabireze.medium.com/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-- 💬 Ask me about **ESG, photography, films, series, economics and cryptocurrencies**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-- 📫 How to reach me **contato@gabireze.com.br**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- 📄 Know about my experiences [https://gabireze.com.br/](https://gabireze.com.br/)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Description Of Bitcoin Exchange And What They do](https://gabireze.medium.com/description-of-bitcoin-exchange-and-what-they-do-3ed010e1d821?source=rss-f959392913c0------2)
-- [Impact Of Bitcoin Halving](https://gabireze.medium.com/impact-of-bitcoin-halving-e76e3c925c10?source=rss-f959392913c0------2)
-- [Cryptocurrency Is The New Gold](https://gabireze.medium.com/cryptocurrency-is-the-new-gold-9dfeb28bf162?source=rss-f959392913c0------2)
-- [What Is Blockchain And Why Is Bitcoin Secure](https://gabireze.medium.com/what-is-blockchain-and-why-is-bitcoin-secure-188d2ac94366?source=rss-f959392913c0------2)
-<!-- BLOG-POST-LIST:END -->
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gabireze_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabireze_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gabireze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabireze" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/gabireze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gabireze" height="30" width="40" /></a>
-<a href="https://fb.com/gabireze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabireze" height="30" width="40" /></a>
-<a href="https://instagram.com/gabireze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabireze" height="30" width="40" /></a>
-<a href="https://dribbble.com/gabireze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="gabireze" height="30" width="40" /></a>
-<a href="https://www.behance.net/gabireze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gabireze" height="30" width="40" /></a>
-<a href="https://medium.com/@gabireze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gabireze" height="30" width="40" /></a>
-<a href="/https://gabireze.medium.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://gabireze.medium.com/feed" height="30" width="40" /></a>
-</p>
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+![MacOs](https://img.shields.io/badge/MacOS-00000F?style=for-the-badge&logo=apple)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-<h3 align="left">Support:</h3>
+## Experience
+[<img align="left" height="94px" width="94px" alt="Encora Inc." src="https://media.licdn.com/dms/image/C4E0BAQHHECNoVhv0HA/company-logo_200_200/0/1663783800918?e=1693440000&v=beta&t=PlEj1Rjk8WfTDu1Fbm21QlJBatADrieP9Q_cW_XSORE"/>](https://www.linkedin.com/company/encorainc/)
 
-- 💵 For Brazilians, my Pix is **contato@gabireze.com.br**
+**Junior Software Developer** \
+[**Encora Inc.**](https://www.linkedin.com/company/encorainc/) • Full-time \
+Jan 2023 - Present \
+Skills: `Vue.js`, `Laravel`, `PHP`, `Python` \
+<br/>
 
-- 💸 My BTC address is **bc1qqqtwl0akq535w3g4z0dgmq8nk0e8tqjtc2gw3x**
+[<img align="left" height="94px" width="94px" alt="Encora Inc." src="https://media.licdn.com/dms/image/C4E0BAQHHECNoVhv0HA/company-logo_200_200/0/1663783800918?e=1693440000&v=beta&t=PlEj1Rjk8WfTDu1Fbm21QlJBatADrieP9Q_cW_XSORE"/>](https://www.linkedin.com/company/encorainc/)
 
-- 💰 My ETH address is **0x954D8a59B21Cf87965D7ADBf115f930DD81C94fB**
+**Software Developer Intern** \
+[**Encora Inc.**](https://www.linkedin.com/company/encorainc/) • Internship \
+Feb 2021 - Jan 2023 · 2 yrs \
+Skills: `React`, `JavaScript`, `Firebase` \
+<br/>
 
-- 🔥 My ERC20 / BSC / Polygon address is **0x93b864efBc8f80cB04EF845BC1E2eB4D76c257bD**
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQFtIpRGDW480A/company-logo_200_200/0/1580751461992?e=1693440000&v=beta&t=QfXIM8e-Xam5LIuqyqvCMRn4jHI3y6F5UIL0bdQU3-E"/>](https://www.linkedin.com/company/superopabrasil/)
 
-- ⚡️ Lightning Address is **gabireze@zbd.gg** or [https://zbd.gg/gabireze](https://zbd.gg/gabireze)
+**Software Developer Intern** \
+[**SuperOpa**](https://www.linkedin.com/company/superopabrasil/) • Internship \
+Jun 2019 - Feb 2021 · 1 yr 9 mos \
+Skills: `Flutter`, `Node.js`, `AWS` \
+<br/>
 
-<p><a href="https://www.buymeacoffee.com/gabireze"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gabireze" /></a></p><br><br>
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4D0BAQFLH_npCsbebA/company-logo_200_200/0/1568725534236?e=1693440000&v=beta&t=q_8PDwxg7zVgyto-9rev3nryqm5ZbN-X3wwzReeiHAY"/>](https://www.linkedin.com/company/opa-tech/)
 
-<h3 align="left">⚡️ GitHub Stats:</h3>
+**Software Developer Intern** \
+[**OpaBox**](https://www.linkedin.com/company/opa-tech/) • Internship \
+Jun 2019 - Feb 2021 · 1 yr 9 mos \
+Skills: `Vue.js`, `Node.js`, `AWS`
 
-| <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabireze&show_icons=true&locale=en" alt="gabireze" /></p> | <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gabireze&" alt="gabireze" /></p>|
-| :----: | :----: |
-| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabireze&show_icons=true&locale=en&layout=compact" alt="gabireze" /></p> | <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabireze" alt="gabireze" /></a> </p> |
+## Education
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4D0BAQEPqvcv5aM5Sw/company-logo_200_200/0/1668437624047?e=1693440000&v=beta&t=jnG_wg0Bts-YM87AMJ1AwPt0stsOitXMzegRvD6S05w"/>](https://www.linkedin.com/school/puccampinas/)
+
+**Software Engineering** \
+[**Pontifícia Universidade Católica de Campinas**](https://www.linkedin.com/school/puccampinas/) • Bachelor's degree \
+2019 - 2022 \
+<br/>
+
+## Contributions
+💵 PIX (For Brazilians): **contato@gabireze.com.br**:
+
+💸 BTC: **bc1qqqtwl0akq535w3g4z0dgmq8nk0e8tqjtc2gw3x**
+
+💰 ETH: **0x954D8a59B21Cf87965D7ADBf115f930DD81C94fB**
+
+🔥 ERC20 / BSC / Polygon: **0x93b864efBc8f80cB04EF845BC1E2eB4D76c257bD**
+
+⚡️ Lightning: **gabireze@zbd.gg** or [https://zbd.gg/gabireze](https://zbd.gg/gabireze)
+
+## GitHub Statistics
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabireze&show_icons=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
