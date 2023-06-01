@@ -89,7 +89,7 @@ Skills: `Vue.js`, `Node.js`, `AWS`
 
 🔥 ERC20 / BSC / Polygon: **0x93b864efBc8f80cB04EF845BC1E2eB4D76c257bD**
 
-⚡️ Lightning: **gabireze@zbd.gg** or [https://zbd.gg/gabireze](https://zbd.gg/gabireze)
+⚡️ Lightning Network: **gabireze@zbd.gg** or [https://zbd.gg/gabireze](https://zbd.gg/gabireze)
 
 ## GitHub Statistics
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabireze&show_icons=true&theme=radical" />
