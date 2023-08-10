@@ -1,9 +1,9 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" /> Hello there, I'm <strong>Gabriel de Rezende Gonçalves</strong> 
 
-I am a full-stack developer, and here you can find the repositories of what I have been working on.
+I am a full stack developer, and here you can find the repositories of what I have been working on.
 - Website: https://gabireze.com.br/
 - LinkedIn: https://www.linkedin.com/in/gabireze/
-- Email: [contato@gabireze.com.br](mailto:contato@gabireze.com.br)
+- Email: [hello@gabireze.com.br](mailto:hello@gabireze.com.br)
 
 ![Profile views](https://komarev.com/ghpvc/?username=gabireze&label=Profile%20views&color=blue&style=for-the-badge)
 
@@ -89,7 +89,7 @@ Skills: `Vue.js`, `Node.js`, `AWS`
 
 🔥 ERC20 / BSC / Polygon: **0x93b864efBc8f80cB04EF845BC1E2eB4D76c257bD**
 
-⚡️ Lightning Network: **gabireze@zbd.gg** or [https://zbd.gg/gabireze](https://zbd.gg/gabireze)
+⚡️ Lightning Network: **lightning@gabireze.com.br** or [https://zbd.gg/gabireze](https://zbd.gg/gabireze)
 
 ## GitHub Statistics
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabireze&show_icons=true&theme=radical" />
