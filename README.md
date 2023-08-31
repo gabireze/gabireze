@@ -41,7 +41,7 @@ I am a full stack developer, and here you can find the repositories of what I ha
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Experience
-[<img align="left" height="94px" width="94px" alt="Encora Inc." src="https://media.licdn.com/dms/image/C4E0BAQHHECNoVhv0HA/company-logo_200_200/0/1663783800918?e=1693440000&v=beta&t=PlEj1Rjk8WfTDu1Fbm21QlJBatADrieP9Q_cW_XSORE"/>](https://www.linkedin.com/company/encorainc/)
+[<img align="left" height="94px" width="94px" alt="Encora Inc." src="https://media.licdn.com/dms/image/C4E0BAQHHECNoVhv0HA/company-logo_200_200/0/1663783801368/encorainc_logo?e=1701302400&v=beta&t=eBSomWKrTpn8yA_T3Ll7PcLeQumXdZbmUjJ9TwrEf0s"/>](https://www.linkedin.com/company/encorainc/)
 
 **Junior Software Developer** \
 [**Encora Inc.**](https://www.linkedin.com/company/encorainc/) • Full-time \
@@ -49,7 +49,7 @@ Jan 2023 - Present \
 Skills: `Vue.js`, `Laravel`, `PHP`, `Python` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Encora Inc." src="https://media.licdn.com/dms/image/C4E0BAQHHECNoVhv0HA/company-logo_200_200/0/1663783800918?e=1693440000&v=beta&t=PlEj1Rjk8WfTDu1Fbm21QlJBatADrieP9Q_cW_XSORE"/>](https://www.linkedin.com/company/encorainc/)
+[<img align="left" height="94px" width="94px" alt="Encora Inc." src="https://media.licdn.com/dms/image/C4E0BAQHHECNoVhv0HA/company-logo_200_200/0/1663783801368/encorainc_logo?e=1701302400&v=beta&t=eBSomWKrTpn8yA_T3Ll7PcLeQumXdZbmUjJ9TwrEf0s"/>](https://www.linkedin.com/company/encorainc/)
 
 **Software Developer Intern** \
 [**Encora Inc.**](https://www.linkedin.com/company/encorainc/) • Internship \
@@ -57,7 +57,7 @@ Feb 2021 - Jan 2023 · 2 yrs \
 Skills: `React`, `JavaScript`, `Firebase` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQFtIpRGDW480A/company-logo_200_200/0/1580751461992?e=1693440000&v=beta&t=QfXIM8e-Xam5LIuqyqvCMRn4jHI3y6F5UIL0bdQU3-E"/>](https://www.linkedin.com/company/superopabrasil/)
+[<img align="left" height="94px" width="94px" alt="SuperOpa" src="https://media.licdn.com/dms/image/C4E0BAQFtIpRGDW480A/company-logo_200_200/0/1630594028017?e=1701302400&v=beta&t=9MFXdoxWDYdnctC4asyE_aFz6YPDZ61EpJS7AYeYu0o"/>](https://www.linkedin.com/company/superopabrasil/)
 
 **Software Developer Intern** \
 [**SuperOpa**](https://www.linkedin.com/company/superopabrasil/) • Internship \
@@ -65,7 +65,7 @@ Jun 2019 - Feb 2021 · 1 yr 9 mos \
 Skills: `Flutter`, `Node.js`, `AWS` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4D0BAQFLH_npCsbebA/company-logo_200_200/0/1568725534236?e=1693440000&v=beta&t=q_8PDwxg7zVgyto-9rev3nryqm5ZbN-X3wwzReeiHAY"/>](https://www.linkedin.com/company/opa-tech/)
+[<img align="left" height="94px" width="94px" alt="OpaBox" src="https://media.licdn.com/dms/image/C4D0BAQFLH_npCsbebA/company-logo_200_200/0/1630548837978/opa_tech_logo?e=1701302400&v=beta&t=fdt7doZzMGCpdRGqnbqEFsSKXSeBxCMt6NkC-WUPL3E"/>](https://www.linkedin.com/company/opa-tech/)
 
 **Software Developer Intern** \
 [**OpaBox**](https://www.linkedin.com/company/opa-tech/) • Internship \
@@ -73,7 +73,7 @@ Jun 2019 - Feb 2021 · 1 yr 9 mos \
 Skills: `Vue.js`, `Node.js`, `AWS`
 
 ## Education
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4D0BAQEPqvcv5aM5Sw/company-logo_200_200/0/1668437624047?e=1693440000&v=beta&t=jnG_wg0Bts-YM87AMJ1AwPt0stsOitXMzegRvD6S05w"/>](https://www.linkedin.com/school/puccampinas/)
+[<img align="left" height="94px" width="94px" alt="Pontifícia Universidade Católica de Campinas" src="https://media.licdn.com/dms/image/C4D0BAQEPqvcv5aM5Sw/company-logo_200_200/0/1668437624496/puccampinas_logo?e=1701302400&v=beta&t=isKj1wqKD8mzlfYII77or5gtmJdMexF4hrxRch5RWfk"/>](https://www.linkedin.com/school/puccampinas/)
 
 **Software Engineering** \
 [**Pontifícia Universidade Católica de Campinas**](https://www.linkedin.com/school/puccampinas/) • Bachelor's degree \
