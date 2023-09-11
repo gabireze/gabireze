@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" /> Hello there, I'm <strong>Gabriel de Rezende Gonçalves</strong> 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" /> Hello there, I'm <strong>Gabriel Gonçalves</strong> 
 
 I am a full stack developer, and here you can find the repositories of what I have been working on.
 - Website: https://gabireze.com.br/
