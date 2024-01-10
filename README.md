@@ -77,7 +77,7 @@ Skills: `Vue.js`, `Node.js`, `AWS`
 
 **Software Engineering** \
 [**Pontifícia Universidade Católica de Campinas**](https://www.linkedin.com/school/puccampinas/) • Bachelor's degree \
-2019 - 2022 \
+2019 - 2023 \
 <br/>
 
 ## Contributions
