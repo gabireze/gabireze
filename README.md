@@ -44,7 +44,7 @@ I am a full-stack developer, and here you can find the repositories of what I ha
 
 **Software Developer** \
 [**Encora Inc.**](https://www.linkedin.com/company/encorainc/) • Full-time  
-📍 *Jan 2023 – Present*  
+*Jan 2023 – Present*  
 Skills: `Vue.js`, `Python`, `Laravel`, `PHP`, `FastAPI`, `CI/CD`, `Docker`, `Playwright`, `PostgreSQL`  
 <br/>
 
@@ -52,7 +52,7 @@ Skills: `Vue.js`, `Python`, `Laravel`, `PHP`, `FastAPI`, `CI/CD`, `Docker`, `Pla
 
 **Software Developer Intern** \
 [**Encora Inc.**](https://www.linkedin.com/company/encorainc/) • Internship  
-📍 *Feb 2021 – Jan 2023*  
+*Feb 2021 – Jan 2023*  
 Skills: `React`, `JavaScript`, `Firebase`, `API Integration`, `Agile`, `GitHub`  
 <br/>
 
@@ -60,7 +60,7 @@ Skills: `React`, `JavaScript`, `Firebase`, `API Integration`, `Agile`, `GitHub`
 
 **Software Developer Intern** \
 [**SuperOpa**](https://www.linkedin.com/company/superopabrasil/) • Internship  
-📍 *Jun 2019 – Feb 2021*  
+*Jun 2019 – Feb 2021*  
 Skills: `Flutter`, `Node.js`, `AWS`, `API Gateway`, `SQS`, `Lambda`, `Vue.js`  
 <br/>
 
@@ -68,7 +68,7 @@ Skills: `Flutter`, `Node.js`, `AWS`, `API Gateway`, `SQS`, `Lambda`, `Vue.js`
 
 **Software Developer Intern** \
 [**OpaBox**](https://www.linkedin.com/company/opa-tech/) • Internship  
-📍 *Jun 2019 – Feb 2021*  
+*Jun 2019 – Feb 2021*  
 Skills: `Vue.js`, `Node.js`, `AWS`, `Microservices`, `E-commerce`  
 <br/>
 
