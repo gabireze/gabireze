@@ -43,7 +43,7 @@ I am a full-stack developer, and here you can find the repositories of what I ha
 [<img align="left" height="94px" width="94px" alt="Levva" src="https://gabireze.com.br/assets/img/logos/levva_logo.jpeg"/>](https://www.linkedin.com/company/levva/)
 
 **Software Engineer** \
-**Levva**](https://www.linkedin.com/company/levva/) • Full-time  
+[**Levva**](https://www.linkedin.com/company/levva/) • Full-time  
 *Jul 2025 – Present*  
 Skills: `PHP`, `Laravel`  
 <br/>
