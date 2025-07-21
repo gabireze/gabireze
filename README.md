@@ -40,11 +40,19 @@ I am a full-stack developer, and here you can find the repositories of what I ha
 
 ## 🧠 Experience
 
+[<img align="left" height="94px" width="94px" alt="Levva" src="https://gabireze.com.br/assets/img/logos/levva_logo.jpeg"/>](https://www.linkedin.com/company/levva/)
+
+**Software Engineer** \
+**Levva**](https://www.linkedin.com/company/levva/) • Full-time  
+*Jul 2025 – Present*  
+Skills: `PHP`, `Laravel`  
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Encora Inc." src="https://gabireze.com.br/assets/img/logos/encorainc_logo.jpg"/>](https://www.linkedin.com/company/encorainc/)
 
-**Software Developer** \
+**Software Engineer** \
 [**Encora Inc.**](https://www.linkedin.com/company/encorainc/) • Full-time  
-*Jan 2023 – Present*  
+*Jan 2023 – Apr 2025*  
 Skills: `Vue.js`, `Python`, `Laravel`, `PHP`, `FastAPI`, `CI/CD`, `Docker`, `Playwright`, `PostgreSQL`  
 <br/>
 
