@@ -50,7 +50,7 @@ Skills: `PHP`, `Laravel`
 
 [<img align="left" height="94px" width="94px" alt="Encora Inc." src="https://gabireze.com.br/assets/img/logos/encorainc_logo.jpg"/>](https://www.linkedin.com/company/encorainc/)
 
-**Software Engineer** \
+**Junior Software Engineer** \
 [**Encora Inc.**](https://www.linkedin.com/company/encorainc/) • Full-time  
 *Jan 2023 – Apr 2025*  
 Skills: `Vue.js`, `Python`, `Laravel`, `PHP`, `FastAPI`, `CI/CD`, `Docker`, `Playwright`, `PostgreSQL`  
