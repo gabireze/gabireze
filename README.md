@@ -13,7 +13,6 @@ Full-Stack Software Engineer with 6+ years of experience building scalable web a
 
 ![Profile views](https://komarev.com/ghpvc/?username=gabireze&label=Profile%20views&color=0e75b6&style=flat)
 
----
 
 ## Technical Skills
 
@@ -51,8 +50,6 @@ Full-Stack Software Engineer with 6+ years of experience building scalable web a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
----
 
 ## Experience
 
