@@ -1,13 +1,15 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" /> Hello there, I'm **Gabriel Gonçalves**
 
-Full-Stack Software Engineer with 6+ years of experience building scalable web applications and cloud solutions. Specialized in modern web frameworks, API development, and cloud architecture. Currently pursuing an MBA in Solutions Architecture while working at Levva.
+Full-Stack Software Engineer with several years of experience building scalable web applications, APIs, and cloud solutions — Angular, Vue.js, Laravel, Python, and solution architecture. Currently pursuing an **MBA in Solution Architecture (FIAP)** while working at **Levva** (financial-sector Angular work, plus earlier full-stack delivery including agricultural insurance).
+
+Portfolio: [gabireze.com.br](https://gabireze.com.br) · English: [gabireze.com.br/en](https://gabireze.com.br/en)
 
 ### Connect With Me
 
 <p align="left">
 <a href="https://gabireze.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-gabireze.com.br-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/gabireze" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-gabireze-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:hello@gabireze.com.br"><img src="https://img.shields.io/badge/Email-hello@gabireze.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:contato@gabireze.com.br"><img src="https://img.shields.io/badge/Email-contato@gabireze.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://gabireze.com.br/assets/pdf/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-Download_PDF-success?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/></a>
 </p>
 
@@ -46,6 +48,7 @@ Full-Stack Software Engineer with 6+ years of experience building scalable web a
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -55,11 +58,11 @@ Full-Stack Software Engineer with 6+ years of experience building scalable web a
 
 [<img align="left" height="94px" width="94px" alt="Levva" src="https://gabireze.com.br/assets/img/logos/levva_logo.jpeg"/>](https://www.linkedin.com/company/levva/)
 
-**Software Engineer** \
+**Mid-Level Software Engineer** \
 [**Levva**](https://www.linkedin.com/company/levva/) • Full-time \
 *Jul 2025 – Present* \
-Building scalable backend solutions using modern PHP frameworks and microservices architecture. \
-`PHP` `Laravel` `Microservices` `API Development`
+Financial-sector project with **Angular** — landing pages, performance, SEO, componentization, design system, APIs, forms, and analytics. Earlier, full-stack **Agricultural Machinery Insurance** (Laravel, Angular, legacy integrations): multi-tenant architecture, automation vs. manual work, 40+ REST endpoints (OpenAPI), Azure CI/CD. \
+`Angular` `TypeScript` `Laravel` `PHP` `Azure` `OpenAPI`
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Encora Inc." src="https://gabireze.com.br/assets/img/logos/encorainc_logo.jpg"/>](https://www.linkedin.com/company/encorainc/)
@@ -67,7 +70,7 @@ Building scalable backend solutions using modern PHP frameworks and microservice
 **Junior Software Engineer** \
 [**Encora Inc.**](https://www.linkedin.com/company/encorainc/) • Full-time \
 *Jan 2023 – Apr 2025* \
-Developed full-stack applications with Vue.js and Python, implemented CI/CD pipelines, and automated testing with Playwright. \
+Full-stack work on a global student-mobility platform: **Vue.js**, **Python**, **FastAPI**, **Laravel**, **PostgreSQL**, CI/CD, **Playwright**. \
 `Vue.js` `Python` `Laravel` `PHP` `FastAPI` `CI/CD` `Docker` `Playwright` `PostgreSQL`
 <br/>
 
@@ -76,8 +79,8 @@ Developed full-stack applications with Vue.js and Python, implemented CI/CD pipe
 **Software Developer Intern** \
 [**Encora Inc.**](https://www.linkedin.com/company/encorainc/) • Internship \
 *Feb 2021 – Jan 2023* \
-Built responsive web applications using React and integrated with Firebase for real-time data synchronization. \
-`React` `JavaScript` `Firebase` `API Integration` `Agile` `GitHub`
+Internal corporate tools with **Node.js**, **Python**, **Vue.js**, **React**, APIs, **PostgreSQL**, **MySQL**, Swagger/OpenAPI, and agile delivery. \
+`Node.js` `Python` `Vue.js` `React` `PostgreSQL` `MySQL` `Swagger`
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="SuperOpa" src="https://gabireze.com.br/assets/img/logos/superopa_logo.jpg"/>](https://www.linkedin.com/company/superopabrasil/)
@@ -85,7 +88,7 @@ Built responsive web applications using React and integrated with Firebase for r
 **Software Developer Intern** \
 [**SuperOpa**](https://www.linkedin.com/company/superopabrasil/) • Internship \
 *Jun 2019 – Feb 2021* \
-Developed mobile applications with Flutter and serverless backend solutions using AWS Lambda, SQS, and API Gateway. \
+Marketplace with **Vue.js** and **Flutter**; microservices APIs with **Node.js**; **AWS** (Lambda, API Gateway, SQS, DynamoDB). \
 `Flutter` `Node.js` `AWS` `API Gateway` `SQS` `Lambda` `Vue.js`
 <br/>
 
@@ -94,19 +97,19 @@ Developed mobile applications with Flutter and serverless backend solutions usin
 **Software Developer Intern** \
 [**OpaBox**](https://www.linkedin.com/company/opa-tech/) • Internship \
 *Jun 2019 – Feb 2021* \
-Built e-commerce solutions using Vue.js and Node.js with microservices architecture on AWS. \
-`Vue.js` `Node.js` `AWS` `Microservices` `E-commerce`
+White-label e-commerce with **Vue.js** and **Flutter**; **Node.js** APIs and **AWS** serverless; payments and integrations. \
+`Vue.js` `Node.js` `AWS` `Microservices` `Flutter`
 <br/>
 
 ## Education
 
 [<img align="left" height="94px" width="94px" alt="FIAP – Faculdade de Informática e Administração Paulista" src="https://gabireze.com.br/assets/img/logos/fiap_logo.png"/>](https://www.linkedin.com/school/fiap/)
 
-**MBA in Solutions Architecture** \
+**MBA in Solution Architecture** \
 [**FIAP – Faculdade de Informática e Administração Paulista**](https://www.linkedin.com/school/fiap/) \
 *2025 – 2026* \
-Specializing in cloud architecture, microservices design patterns, and technical leadership. \
-Topics: `Cloud Computing` `Microservices` `Software Architecture` `DevOps` `Technical Leadership`
+Enterprise architecture, **TOGAF**, microservices, integration, multicloud, FinOps, security, data for GenAI, strategic use of AI in architecture. \
+Topics: `Cloud Computing` `Microservices` `Software Architecture` `DevOps` `TOGAF` `GenAI`
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Pontifícia Universidade Católica de Campinas" src="https://gabireze.com.br/assets/img/logos/puccampinas_logo.jpg"/>](https://www.linkedin.com/school/puccampinas/)
@@ -114,8 +117,8 @@ Topics: `Cloud Computing` `Microservices` `Software Architecture` `DevOps` `Tech
 **Bachelor's Degree in Software Engineering** \
 [**Pontifícia Universidade Católica de Campinas**](https://www.linkedin.com/school/puccampinas/) \
 *2019 – 2023* \
-Comprehensive study of software development lifecycle, from requirements analysis to deployment. \
-Topics: `Software Design` `Data Structures` `Algorithms` `DevOps` `Agile Methodologies` `Software Testing`
+Software development lifecycle, design, data structures, algorithms, DevOps, agile, testing. \
+Topics: `Software Design` `Data Structures` `Algorithms` `DevOps` `Agile` `Testing`
 <br/>
 
 ## GitHub Statistics
