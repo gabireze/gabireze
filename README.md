@@ -2,7 +2,7 @@
 
 Senior Software Engineer with experience since 2019 building scalable web applications, APIs, complex integrations, and enterprise solutions — React, Angular, TypeScript, .NET, Python, Laravel, and Node.js. Holds an **MBA in Solution Architecture (FIAP)** and currently works at **Levva** on a GoodStorage project using React, .NET, and AI-native engineering.
 
-Portfolio: [gabireze.com.br](https://gabireze.com.br) · English: [gabireze.com.br/en](https://gabireze.com.br/en)
+Website: [Português](https://gabireze.com.br) · [English](https://gabireze.com.br/en)
 
 ### Connect With Me
 
@@ -61,12 +61,15 @@ Portfolio: [gabireze.com.br](https://gabireze.com.br) · English: [gabireze.com.
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-4B5563?style=flat-square)
+![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
 
 ### Data & Messaging
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
@@ -82,13 +85,19 @@ Portfolio: [gabireze.com.br](https://gabireze.com.br) · English: [gabireze.com.
 ### Architecture
 
 ![Modular Architecture](https://img.shields.io/badge/Modular_Architecture-374151?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-374151?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Microservices-374151?style=flat-square)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-374151?style=flat-square)
 ![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven_Architecture-374151?style=flat-square)
 ![DDD](https://img.shields.io/badge/DDD-374151?style=flat-square)
+![TOGAF](https://img.shields.io/badge/TOGAF-374151?style=flat-square)
+![BPMN](https://img.shields.io/badge/BPMN-374151?style=flat-square)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 ![BFF](https://img.shields.io/badge/BFF-374151?style=flat-square)
 ![Multi-Tenant Systems](https://img.shields.io/badge/Multi--Tenant_Systems-374151?style=flat-square)
+![Service Layer](https://img.shields.io/badge/Service_Layer-374151?style=flat-square)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-374151?style=flat-square)
+![Observer Pattern](https://img.shields.io/badge/Observer_Pattern-374151?style=flat-square)
 
 ### Cloud & DevOps
 
@@ -104,7 +113,10 @@ Portfolio: [gabireze.com.br](https://gabireze.com.br) · English: [gabireze.com.
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4B5563?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -118,6 +130,10 @@ Portfolio: [gabireze.com.br](https://gabireze.com.br) · English: [gabireze.com.
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 ![Code Review](https://img.shields.io/badge/Code_Review-4B5563?style=flat-square&logo=github&logoColor=white)
 ![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-4B5563?style=flat-square&logo=readthedocs&logoColor=white)
 
@@ -131,6 +147,24 @@ Portfolio: [gabireze.com.br](https://gabireze.com.br) · English: [gabireze.com.
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white)
 ![Knowledge Bases](https://img.shields.io/badge/Knowledge_Bases-412991?style=flat-square&logo=openai&logoColor=white)
+
+### Tools & Collaboration
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-4B5563?style=flat-square)
+![Kanban](https://img.shields.io/badge/Kanban-4B5563?style=flat-square)
+
+## Languages
+
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-009739?style=flat-square)
+![English](https://img.shields.io/badge/English-Advanced-2563EB?style=flat-square)
+![Spanish](https://img.shields.io/badge/Spanish-Basic-F59E0B?style=flat-square)
 
 ## Experience
 
@@ -163,7 +197,7 @@ Full-stack work on a global student-mobility platform: **Vue.js**, **Python**, *
 
 [<img align="left" height="94px" width="94px" alt="Encora Inc." src="https://gabireze.com.br/assets/img/logos/encorainc_logo.jpg"/>](https://www.linkedin.com/company/encorainc/)
 
-**Software Developer Intern** \
+**Software Engineering Intern** \
 [**Encora Inc.**](https://www.linkedin.com/company/encorainc/) • Internship \
 *Feb 2021 – Jan 2023* \
 Internal corporate tools with **Node.js**, **Python**, **Vue.js**, **React**, APIs, **PostgreSQL**, **MySQL**, Swagger/OpenAPI, and agile delivery. \
@@ -172,19 +206,19 @@ Internal corporate tools with **Node.js**, **Python**, **Vue.js**, **React**, AP
 
 [<img align="left" height="94px" width="94px" alt="SuperOpa" src="https://gabireze.com.br/assets/img/logos/superopa_logo.jpg"/>](https://www.linkedin.com/company/superopabrasil/)
 
-**Software Developer Intern** \
+**Software Engineering Intern** \
 [**SuperOpa**](https://www.linkedin.com/company/superopabrasil/) • Internship \
 *Jun 2019 – Feb 2021* \
-Marketplace with **Vue.js** and **Flutter**; microservices APIs with **Node.js**; **AWS** (Lambda, API Gateway, SQS, DynamoDB). \
+Shared internship across **SuperOpa** and **OpaBox** projects within the same operational group. Marketplace with **Vue.js** and **Flutter**; microservices APIs with **Node.js**; **AWS** (Lambda, API Gateway, SQS, DynamoDB). \
 `Flutter` `Node.js` `AWS` `API Gateway` `SQS` `Lambda` `Vue.js`
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="OpaBox" src="https://gabireze.com.br/assets/img/logos/opa_tech_logo.jpg"/>](https://www.linkedin.com/company/opa-tech/)
 
-**Software Developer Intern** \
+**Software Engineering Intern** \
 [**OpaBox**](https://www.linkedin.com/company/opa-tech/) • Internship \
 *Jun 2019 – Feb 2021* \
-White-label e-commerce with **Vue.js** and **Flutter**; **Node.js** APIs and **AWS** serverless; payments and integrations. \
+Shared internship across **OpaBox** and **SuperOpa** projects within the same operational group. White-label e-commerce with **Vue.js** and **Flutter**; **Node.js** APIs and **AWS** serverless; payments and integrations. \
 `Vue.js` `Node.js` `AWS` `Microservices` `Flutter`
 <br/>
 
