@@ -17,35 +17,120 @@ Portfolio: [gabireze.com.br](https://gabireze.com.br) · English: [gabireze.com.
 
 ### Languages & Core
 
-`JavaScript` `TypeScript` `Python` `PHP` `Java` `C` `Dart` `HTML5` `CSS3` `Sass`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 ### Frontend & Mobile
 
-`React` `Angular` `Vue.js` `Next.js` `Nuxt.js` `Flutter` `Vite` `React Query` `React Hook Form` `Yup` `Tailwind CSS` `CSS Modules` `shadcn/ui` `Radix UI`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Yup](https://img.shields.io/badge/Yup-4B5563?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=flat-square&logo=cssmodules&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
 
 ### Backend & APIs
 
-`.NET` `ASP.NET Core` `.NET Aspire` `Node.js` `Express` `Fastify` `FastAPI` `Laravel` `REST APIs` `GraphQL` `OpenAPI` `Swagger` `SQLAlchemy` `Alembic` `Prisma`
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET Aspire](https://img.shields.io/badge/.NET_Aspire-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-4B5563?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ### Data & Messaging
 
-`PostgreSQL` `MySQL` `MongoDB` `Redis` `DynamoDB` `Firebase` `Firebase Auth` `Firestore` `Firebase Realtime Database` `RabbitMQ` `Kafka` `Amazon SQS` `Algolia`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firebase Realtime Database](https://img.shields.io/badge/Firebase_Realtime_Database-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
+![Algolia](https://img.shields.io/badge/Algolia-003DFF?style=flat-square&logo=algolia&logoColor=white)
 
 ### Architecture
 
-`Modular Architecture` `Microservices` `Distributed Systems` `Event-Driven Architecture` `DDD` `Serverless` `BFF` `Multi-Tenant Systems`
+![Modular Architecture](https://img.shields.io/badge/Modular_Architecture-374151?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-374151?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-374151?style=flat-square)
+![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven_Architecture-374151?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-374151?style=flat-square)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![BFF](https://img.shields.io/badge/BFF-374151?style=flat-square)
+![Multi-Tenant Systems](https://img.shields.io/badge/Multi--Tenant_Systems-374151?style=flat-square)
 
 ### Cloud & DevOps
 
-`AWS` `AWS Lambda` `API Gateway` `CloudWatch` `Azure` `Google Cloud` `Docker` `Docker Compose` `Kubernetes` `Terraform` `CI/CD` `GitHub Actions` `Azure Pipelines` `Linux` `Nginx` `Git`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-759C3E?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4B5563?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Testing & Quality
 
-`Vitest` `Testing Library` `Playwright` `Pytest` `PHPUnit` `Cypress` `Jest` `Code Review` `Technical Documentation`
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-777BB4?style=flat-square&logo=php&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Code Review](https://img.shields.io/badge/Code_Review-4B5563?style=flat-square&logo=github&logoColor=white)
+![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-4B5563?style=flat-square&logo=readthedocs&logoColor=white)
 
 ### AI & Automation
 
-`AI-Native Engineering` `AI Agents` `BMAD` `MCP` `Generative AI` `LLMs` `RAG` `Knowledge Bases`
+![AI-Native Engineering](https://img.shields.io/badge/AI--Native_Engineering-412991?style=flat-square&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square&logo=openai&logoColor=white)
+![BMAD](https://img.shields.io/badge/BMAD-6D28D9?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white)
+![Knowledge Bases](https://img.shields.io/badge/Knowledge_Bases-412991?style=flat-square&logo=openai&logoColor=white)
 
 ## Experience
 
