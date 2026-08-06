@@ -13,46 +13,39 @@ Portfolio: [gabireze.com.br](https://gabireze.com.br) · English: [gabireze.com.
 <a href="https://gabireze.com.br/assets/pdf/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-Download_PDF-success?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/></a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=gabireze&label=Profile%20views&color=0e75b6&style=flat)
-
-
 ## Technical Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+### Languages & Core
+
+`JavaScript` `TypeScript` `Python` `PHP` `Java` `C` `Dart` `HTML5` `CSS3` `Sass`
+
+### Frontend & Mobile
+
+`React` `Angular` `Vue.js` `Next.js` `Nuxt.js` `Flutter` `Vite` `React Query` `React Hook Form` `Yup` `Tailwind CSS` `CSS Modules` `shadcn/ui` `Radix UI`
+
+### Backend & APIs
+
+`.NET` `ASP.NET Core` `.NET Aspire` `Node.js` `Express` `Fastify` `FastAPI` `Laravel` `REST APIs` `GraphQL` `OpenAPI` `Swagger` `SQLAlchemy` `Alembic` `Prisma`
+
+### Data & Messaging
+
+`PostgreSQL` `MySQL` `MongoDB` `Redis` `DynamoDB` `Firebase` `Firebase Auth` `Firestore` `Firebase Realtime Database` `RabbitMQ` `Kafka` `Amazon SQS` `Algolia`
+
+### Architecture
+
+`Modular Architecture` `Microservices` `Distributed Systems` `Event-Driven Architecture` `DDD` `Serverless` `BFF` `Multi-Tenant Systems`
+
+### Cloud & DevOps
+
+`AWS` `AWS Lambda` `API Gateway` `CloudWatch` `Azure` `Google Cloud` `Docker` `Docker Compose` `Kubernetes` `Terraform` `CI/CD` `GitHub Actions` `Azure Pipelines` `Linux` `Nginx` `Git`
+
+### Testing & Quality
+
+`Vitest` `Testing Library` `Playwright` `Pytest` `PHPUnit` `Cypress` `Jest` `Code Review` `Technical Documentation`
+
+### AI & Automation
+
+`AI-Native Engineering` `AI Agents` `BMAD` `MCP` `Generative AI` `LLMs` `RAG` `Knowledge Bases`
 
 ## Experience
 
