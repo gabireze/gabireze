@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" /> Hello there, I'm **Gabriel Gonçalves**
 
-Full-Stack Software Engineer with several years of experience building scalable web applications, APIs, and cloud solutions — Angular, Vue.js, Laravel, Python, and solution architecture. Currently pursuing an **MBA in Solution Architecture (FIAP)** while working at **Levva** (financial-sector Angular work, plus earlier full-stack delivery including agricultural insurance).
+Senior Software Engineer with experience since 2019 building scalable web applications, APIs, complex integrations, and enterprise solutions — React, Angular, TypeScript, .NET, Python, Laravel, and Node.js. Holds an **MBA in Solution Architecture (FIAP)** and currently works at **Levva** on a GoodStorage project using React, .NET, and AI-native engineering.
 
 Portfolio: [gabireze.com.br](https://gabireze.com.br) · English: [gabireze.com.br/en](https://gabireze.com.br/en)
 
@@ -58,9 +58,18 @@ Portfolio: [gabireze.com.br](https://gabireze.com.br) · English: [gabireze.com.
 
 [<img align="left" height="94px" width="94px" alt="Levva" src="https://gabireze.com.br/assets/img/logos/levva_logo.jpeg"/>](https://www.linkedin.com/company/levva/)
 
+**Senior Software Engineer** \
+[**Levva**](https://www.linkedin.com/company/levva/) • Full-time \
+*Aug 2026 – Present* \
+Internal enterprise platform for **GoodStorage**, combining a modular **.NET** architecture, a **React** frontend, and an AI-native engineering approach. End-to-end feature development, BFF API integration, reusable interfaces and forms, automated testing, technical refinements, code reviews, and architectural decisions. \
+`React` `TypeScript` `Vite` `React Query` `.NET` `ASP.NET Core` `.NET Aspire` `PostgreSQL` `Redis` `RabbitMQ` `AI Agents` `BMAD` `MCP`
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Levva" src="https://gabireze.com.br/assets/img/logos/levva_logo.jpeg"/>](https://www.linkedin.com/company/levva/)
+
 **Mid-Level Software Engineer** \
 [**Levva**](https://www.linkedin.com/company/levva/) • Full-time \
-*Jul 2025 – Present* \
+*Jul 2025 – Aug 2026* \
 Financial-sector project with **Angular** — landing pages, performance, SEO, componentization, design system, APIs, forms, and analytics. Earlier, full-stack **Agricultural Machinery Insurance** (Laravel, Angular, legacy integrations): multi-tenant architecture, automation vs. manual work, 40+ REST endpoints (OpenAPI), Azure CI/CD. \
 `Angular` `TypeScript` `Laravel` `PHP` `Azure` `OpenAPI`
 <br/>
@@ -120,8 +129,3 @@ Topics: `Cloud Computing` `Microservices` `Software Architecture` `DevOps` `TOGA
 Software development lifecycle, design, data structures, algorithms, DevOps, agile, testing. \
 Topics: `Software Design` `Data Structures` `Algorithms` `DevOps` `Agile` `Testing`
 <br/>
-
-## GitHub Statistics
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabireze&show_icons=true&theme=radical" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabireze&layout=compact&theme=radical" />
